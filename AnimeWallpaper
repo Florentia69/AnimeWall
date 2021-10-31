@@ -1,13 +1,13 @@
 {
   "ADS": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "APPLOVIN-D",
       "select_backup_ads": "",
-      "main_ads_banner": "",
-      "main_ads_intertitial": "",
+      "main_ads_banner": "68e68700084cbbf6",
+      "main_ads_intertitial": "99e9e0964042ad06",
       "backup_ads_banner": "",
       "backup_ads_intertitial": "",
-      "initialize_sdk": "107355779",
+      "initialize_sdk": "",
       "initialize_sdk_backup_ads": "",
       "interstitial_counter": "3",
       "high_paying_keyword_1": "",
